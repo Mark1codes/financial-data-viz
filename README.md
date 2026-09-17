@@ -1,6 +1,6 @@
 # The American Consumer Is Running Out of Road
 
-A data journalism project built as part of a job application test. The story uses three FRED datasets to trace how American consumer finances have deteriorated — from record debt, to vanishing savings, to rising delinquencies.
+ The story uses three FRED datasets to trace how American consumer finances have deteriorated — from record debt, to vanishing savings, to rising delinquencies.
 
 ---
 
