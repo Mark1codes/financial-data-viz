@@ -108,4 +108,4 @@ Chart 2  →  The savings buffer has nearly disappeared
 Chart 3  →  Credit card delinquencies are rising
 ```
 
-Each chart builds on the previous one to make a single argument: the American consumer is stretched thin, and the cracks are starting to show.
+
